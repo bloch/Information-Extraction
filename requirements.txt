@@ -1,0 +1,5 @@
+rdflib
+requests
+lxml.html
+lxml.etree
+sys
